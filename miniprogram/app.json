@@ -1,7 +1,7 @@
 {
   "pages": [
-    "pages/index/index",
-    "pages/logs/logs"
+    "pages/home-music/home-music",
+    "pages/home-video/home-video"
   ],
   "window": {
     "backgroundTextStyle": "light",
