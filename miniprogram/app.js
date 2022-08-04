@@ -1,5 +1,4 @@
-// app.ts
-App<IAppOption>({
+App({
   globalData: {},
   onLaunch() {
     // 展示本地存储能力
